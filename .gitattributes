@@ -1,0 +1,4 @@
+# Treat all .md files as R, except README
+*.md linguist-language=R
+*.py linguist-language=Python
+README.md linguist-language=Markdown
